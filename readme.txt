@@ -1,5 +1,1 @@
-Git is a distributed version control system.
-Git is a free software distributed under the GPL.
-git tracks changes.
-branch test.
-Creating a new branch quick and simple.
+test
